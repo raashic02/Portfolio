@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Raashi&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://raashic02.github.io/Portfolio",
+    "feed_url": "https://raashic02.github.io/Portfolio/feed.json",
+    "user_comment": "",
+    "icon": "https://raashic02.github.io/Portfolio/media/website/Black-and-White-Minimalist-Aesthetic-Initials-Font-Logo-1.png",
+    "author": {
+        "name": "Raashi Chaudhari"
+    },
+    "items": [
+    ]
+}

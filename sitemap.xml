@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://raashic02.github.io/Portfolio/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://raashic02.github.io/Portfolio/</loc>
+</url>
+<url>
+<loc>https://raashic02.github.io/Portfolio/about-me/</loc>
+<lastmod>2024-01-31T14:35:45-08:00</lastmod>
+<image:image>
+<image:loc>https://raashic02.github.io/Portfolio/media/posts/2/6D8571A4-14A2-4E19-B1DE-B3D6D225E5DD.jpg</image:loc>
+<image:title><![CDATA[raashi in tour guide polo for ucla]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://raashic02.github.io/Portfolio/media/posts/2/Professional-Headshot.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://raashic02.github.io/Portfolio/raashi-chaudharis-portfolio-p/</loc>
+<lastmod>2024-01-31T14:40:43-08:00</lastmod>
+</url>
+</urlset>
